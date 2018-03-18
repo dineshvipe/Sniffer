@@ -1,0 +1,1 @@
+This package requires python 3 and above
